@@ -7,7 +7,7 @@ This repository contains the following R files and data files (csv); was generat
 
 ## R-scripts
 
-# make_ascat_validation_plots_stats_data_paper_1.R
+## make_ascat_validation_plots_stats_data_paper_1.R
 
 * R Packages used: RColorBrewer, raster, Stats
 
@@ -17,7 +17,7 @@ This repository contains the following R files and data files (csv); was generat
 
 * fits a linear correlation to the scatterplots (using lm).
 
-# make_invariant_summer_bakcscatter_time_series_plots_data_paper_1.R
+## make_invariant_summer_bakcscatter_time_series_plots_data_paper_1.R
 
 * reads in csv files with backscatter data for four evergreen topical forest sites (11x11 grid of 0.05° lat/lon data).
 
@@ -27,7 +27,7 @@ This repository contains the following R files and data files (csv); was generat
 
 * fits a linear trend line to data from each backscatter sensor (ERS: 1993-2000; QSCAT: 1999-2009; ASCAT: 2007-2020).
 
-# make_summer_bakcscatter_time_series_plots_data_paper_2.R
+## make_summer_bakcscatter_time_series_plots_data_paper_2.R
 
 * reads in csv files with backscatter data for twelve major cities (see city_list_12_lat_lon.csv), with data for an 11x11 grid of 0.05° lat/lon for each city.
 
